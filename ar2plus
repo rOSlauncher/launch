@@ -1,5 +1,0 @@
-game.CoreGui.rOS.Base.rOSstore["AR2+"].Enabled.Visible = true
-
-game.CoreGui.rOS.Base.rOSstore["AR2+"].MouseButton1Down:connect(function()
-    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/AlexR32/Parvus/main/Loader.lua"))()
-end)
