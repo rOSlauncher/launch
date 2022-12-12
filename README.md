@@ -1,4 +1,4 @@
-[STOCK] Features Documentation
+Full STOCK Features Documentation
 
 # Apocalypse Rising 2
 [Features]
