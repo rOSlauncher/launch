@@ -1,5 +1,5 @@
->> Full STOCK Feature Documentation <<
->> rOS: Version 1 <<
+>> Full STOCK Feature Documentation 
+>> rOS: Version 1 
 
 # Apocalypse Rising 2
 [Features]
