@@ -101,7 +101,8 @@ Full Feature Documentation
 [Features]
   * Fast Sprint - sprint faster holding shift
   * Player ESP - esp to show all players
-  * Auto Play - plays the game for you 
+  * Auto Play - plays the game for you
+  * Aim Lock - binded aim locker [key: q:e] 
 
 # Jailbreak
 [Features]
