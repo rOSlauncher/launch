@@ -1,4 +1,4 @@
-Full Feature Doc
+Full Feature Documentation
 
 # Apocalypse Rising 2
 [Features]
