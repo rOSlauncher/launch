@@ -14,6 +14,7 @@
   * Jesus Walk - walk on water
   * Fast Fire - boost weapon firerate
   * Full Auto - automatic firemode any wep
+  * No Swim - disables swim state locally
 
 # Apocalypse Rising
 [Features]
