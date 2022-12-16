@@ -105,7 +105,14 @@
   * Fast Sprint - sprint faster holding shift
   * Player ESP - esp to show all players
   * Auto Play - plays the game for you
+  - * Auto Walk - autowalk player
+  - * Auto Respawn - automatically respawns you
+  - * Auto Equip - automatically equips weapon
+  - * Auto Attack - automatically attacks others
   * Aim Lock - binded aim locker [key: q:e] 
+  * Anti Parry - mega swag blocking
+  * Anti RagDoll - no ragdoll
+  * Rejoin if Kicked - rejoin if you get kicked
 
 # Jailbreak
 [Features]
