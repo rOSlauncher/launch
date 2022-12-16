@@ -38,7 +38,7 @@
   * Player ESP - esp to show all players
   * Invisibility - nobody can see u meow
   * Max Stats - maxes firearm stats
-  * Infinite Ammo - inf ammo 
+  * Infinite Ammo - inf stored ammo 
   * Full Auto - makes semi-auto weapons automatic
 
 # Phantom Forces
@@ -161,6 +161,7 @@
   * Collect Loot - collect all loot around the map
   * Player ESP - esp to show all players
   * Aim Lock - binded aim locker [key: q:e]
+  * TP to Exit - tp to exit to escape
 
 # Prison Life
 [Features]
