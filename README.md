@@ -132,6 +132,8 @@
   * Token Farm - autofarm for wins and tokens
   * Player ESP - esp to show all players
   * Reach - sword reach
+  * Fly - binded fly [f]
+  * Invisibility - nobody can see u meow
 
 # Mortem Metallum
 [Features] 
