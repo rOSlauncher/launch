@@ -74,11 +74,13 @@
 [Features]
   * Infinite Jump - no stamina/no cooldown inf jump
   * Fast Sprint - sprint faster holding shift
+  * Fly - binded fly [f]
   * Hitbox + - expands other players head hitbox
   * Player ESP - esp to show all players
   * Rage - teleport to players on loop for mass murder
   * Invisibility - nobody can see u meow
-  *Max Mods - auto firemode, velocity mods, ect
+  * Aim Lock - binded aim locker [key: q:e]
+  * Max Mods - fast firerate, velocity mods, full auto ect
 
 # Da Hood
 [Features] 
